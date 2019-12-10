@@ -1,0 +1,9 @@
+django~=2.2.0
+djangorestframework == 3.10.3
+requests
+uwsgi 
+virtualenv
+
+django-debug-toolbar
+pymysql
+mysqlclient
